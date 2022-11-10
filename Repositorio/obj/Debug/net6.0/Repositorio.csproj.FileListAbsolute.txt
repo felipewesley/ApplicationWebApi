@@ -1,0 +1,15 @@
+C:\workspace\example\ApplicationWebApi\Repositorio\obj\Debug\net6.0\Repositorio.csproj.AssemblyReference.cache
+C:\workspace\example\ApplicationWebApi\Repositorio\obj\Debug\net6.0\Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\example\ApplicationWebApi\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfoInputs.cache
+C:\workspace\example\ApplicationWebApi\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfo.cs
+C:\workspace\example\ApplicationWebApi\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CoreCompileInputs.cache
+C:\workspace\example\ApplicationWebApi\Repositorio\bin\Debug\net6.0\Repositorio.deps.json
+C:\workspace\example\ApplicationWebApi\Repositorio\bin\Debug\net6.0\Repositorio.dll
+C:\workspace\example\ApplicationWebApi\Repositorio\bin\Debug\net6.0\Repositorio.pdb
+C:\workspace\example\ApplicationWebApi\Repositorio\bin\Debug\net6.0\Dominio.dll
+C:\workspace\example\ApplicationWebApi\Repositorio\bin\Debug\net6.0\Dominio.pdb
+C:\workspace\example\ApplicationWebApi\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CopyComplete
+C:\workspace\example\ApplicationWebApi\Repositorio\obj\Debug\net6.0\Repositorio.dll
+C:\workspace\example\ApplicationWebApi\Repositorio\obj\Debug\net6.0\refint\Repositorio.dll
+C:\workspace\example\ApplicationWebApi\Repositorio\obj\Debug\net6.0\Repositorio.pdb
+C:\workspace\example\ApplicationWebApi\Repositorio\obj\Debug\net6.0\ref\Repositorio.dll
